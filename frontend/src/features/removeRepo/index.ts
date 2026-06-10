@@ -1,0 +1,1 @@
+export { ConfirmRemoveDialog } from './ConfirmRemoveDialog';

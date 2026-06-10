@@ -1,0 +1,17 @@
+{
+  "name": "RepoTracker",
+  "short_name": "RepoTracker",
+  "description": "Track GitHub repositories and their latest releases.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#1c302e",
+  "background_color": "#f1ebe4",
+  "display": "standalone",
+  "start_url": "/"
+}

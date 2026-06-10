@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="RepoTracker">
+  <!-- Brand: deep teal-green field, cream chevron (the ">" prompt from the wordmark). -->
+  <rect width="512" height="512" fill="#1c302e" />
+  <polyline
+    points="196,150 350,256 196,362"
+    fill="none"
+    stroke="#f1ebe4"
+    stroke-width="56"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
